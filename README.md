@@ -14,4 +14,4 @@ https://github.com/lrusso/VirtualXP
 
 ## Disclaimer
 
-The Windows XP minified image is provided for educational purposes ONLY. This demo is not affiliated with or endorsed by their respective copyright holders.
+The Windows 1.0 image is provided for educational purposes ONLY. This demo is not affiliated with or endorsed by their respective copyright holders.
