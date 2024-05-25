@@ -10,7 +10,7 @@ https://lrusso.github.io/Virtual1.0/Virtual101.htm
 
 ## Virtual1.0 is a modified version of Virtualxp
 
-https://github.com/lrusso/VirtualXP
+https://blocked87.github.io/Virtual1.0/Virtual101.htm
 
 ## Disclaimer
 
