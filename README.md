@@ -1,4 +1,6 @@
-# VirtualXP
+# Virtual1.0
+
+Sadly i am still trying to figure out why the img isnt working.
 
 Virtual Machine running in a Web browser.
 
