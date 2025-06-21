@@ -1,6 +1,6 @@
 # Virtual1.0
 
-Sadly i am still trying to figure out why the img isnt working.
+I messed up i should've done the .img file as the hard drive instead of floppy and the bios is well bricked im gonna fix it very soon!
 
 Virtual Machine running in a Web browser.
 
